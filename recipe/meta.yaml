@@ -29,7 +29,7 @@ requirements:
     - jupyter-book  <=1.0.4
     - jupytext
     - plotnine
-    - nctoolkit
+    - nctoolkit  >=1.2.6
     - notebook
     - ipykernel
     - rpy2
