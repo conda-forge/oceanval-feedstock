@@ -1,4 +1,4 @@
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 package:
   name: oceanval
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/o/oceanval/oceanval-{{ version }}.tar.gz
-  sha256: b6accde4f5d045343e928acf3aa2d78a858987f411851b8209f1c347f5a06f9f
+  sha256: 0855317f174bf25bfb33b01ebe149e083abefeadeaee389f14ba1fe49f9d170c
 
 
 build:
