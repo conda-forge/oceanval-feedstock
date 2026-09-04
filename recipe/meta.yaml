@@ -30,6 +30,7 @@ requirements:
     - jupytext
     - plotnine
     - nctoolkit  >=1.2.6
+    - matplotlib  >=3.10.9
     - notebook
     - ipykernel
     - rpy2
