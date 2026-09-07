@@ -32,6 +32,7 @@ requirements:
     - nctoolkit  >=1.2.6
     - matplotlib  >=3.10.9
     - notebook
+    - nodejs  =22.23.2
     - ipykernel
     - rpy2
     - r-base
