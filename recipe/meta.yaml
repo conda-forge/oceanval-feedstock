@@ -25,6 +25,7 @@ requirements:
     - python >={{ python_min }}
     - dill
     - multiprocess
+    - weasyprint
     - fiona
     - jupyter-book  >1.0.4
     - jupytext
