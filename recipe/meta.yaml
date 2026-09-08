@@ -1,4 +1,4 @@
-{% set version = "0.5.0" %}
+{% set version = "0.5.1" %}
 
 package:
   name: oceanval
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/o/oceanval/oceanval-{{ version }}.tar.gz
-  sha256: 670105e9d3c5edcde2bbb58ab460aa948d368f5f3b15d68404a75d414ede08e2
+  sha256: 70e0e564b95109d7e09fd35e863627ec25cb40b627d399fdd76257c4e29b0c69
 
 
 build:
