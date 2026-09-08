@@ -26,11 +26,11 @@ requirements:
     - dill
     - multiprocess
     - fiona
-    - jupyter-book  <=1.0.4
+    - jupyter-book  >1.0.4
     - jupytext
     - plotnine
     - nctoolkit  >=1.2.6
-    - matplotlib  >=3.10.9
+    - matplotlib  <=3.10.9
     - notebook
     - nodejs  =22.23.2
     - ipykernel
