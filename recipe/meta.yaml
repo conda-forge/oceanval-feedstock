@@ -1,4 +1,4 @@
-{% set version = "0.5.2" %}
+{% set version = "0.5.3" %}
 
 package:
   name: oceanval
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/o/oceanval/oceanval-{{ version }}.tar.gz
-  sha256: 98ed42ba8d2eae76c437b6b876ceae8640ab013f2933158ead01b8a5c3277c53
+  sha256: 6a6490e1ff9d712e9f1a77872e189235c51b351bb8e0d06a44e839771b84bf6b
 
 
 build:
@@ -31,7 +31,7 @@ requirements:
     - jupytext
     - plotnine
     - nctoolkit  >=1.2.6
-    - matplotlib  <=3.10.9
+    - matplotlib-base  <=3.10.9
     - notebook
     - nodejs  =22.23.2
     - ipykernel
