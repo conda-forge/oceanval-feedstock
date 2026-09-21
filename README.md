@@ -3,7 +3,7 @@ About oceanval-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/oceanval-feedstock/blob/main/LICENSE.txt)
 
-Home: https://oceanval.readthedocs.io/en/
+Home: https://pmlmodelling.github.io/OceanVal/
 
 Package license: GPL-3.0-only
 
