@@ -29,6 +29,8 @@ requirements:
     - fiona
     - jupyter-book  >1.0.4
     - jupytext
+    - python-docx
+    - pandoc
     - plotnine
     - nctoolkit  >=1.2.6
     - matplotlib-base  <=3.10.9
