@@ -26,7 +26,7 @@ requirements:
     - dill
     - multiprocess
     - weasyprint
-    - ncplot >=0.4.0 
+    - ncplot >=0.4.1
     - fiona
     - jupyter-book  >1.0.4
     - jupytext
