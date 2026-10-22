@@ -11,7 +11,7 @@ source:
 
 build:
   noarch: python
-  number: 0
+  number: 1
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
@@ -28,7 +28,7 @@ requirements:
     - weasyprint
     - ncplot >=0.4.1
     - fiona
-    - jupyter-book  >1.0.4
+    - jupyter-book  >=2.0.0
     - jupytext
     - python-docx
     - pandoc
