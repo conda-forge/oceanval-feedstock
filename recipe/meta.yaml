@@ -62,7 +62,7 @@ about:
   home: https://plymouthmarinelaboratory.github.io/OceanVal/
   license: GPL-3.0-only
   license_file: LICENSE
-  summary: Automated ocean model validation in Python.
+  summary: Automated ocean model analysis and validation in Python.
 
 extra:
   recipe-maintainers:
