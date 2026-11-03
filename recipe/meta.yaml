@@ -28,6 +28,7 @@ requirements:
     - weasyprint
     - ncplot >=0.4.1
     - fiona
+    - h5py
     - jupyter-book  >=2.0.0
     - jupytext
     - python-docx
